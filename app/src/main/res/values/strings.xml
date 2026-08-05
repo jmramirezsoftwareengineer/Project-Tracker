@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project Tracker</string>
+    <string name="title_activity_main_navigation">MainActivityNavigation</string>
+    <string name="due_date_label">Due: %1$s</string>
+</resources>
